@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @conradotl
+- 👀 I’m interested in computer vision and statistical analysis
+- 🌱 I’m currently learning , in one hand, stereo vision and 3D reconstruction and, in other hand, simple linear neural network for 0 dimensional variables. 
+- 💞️ I’m looking to collaborate on statistical and signal processing projects
+- 📫 email me at conradotl@gmail.com
